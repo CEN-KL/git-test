@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("go hot-fix!!!");
         System.out.println("No, Stay here !");
         System.out.println("push ! push ! push");
+        System.out.println("Hello, I'm on GitHub !");
     }
 }
