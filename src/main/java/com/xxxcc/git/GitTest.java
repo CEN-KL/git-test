@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Master tries to merge!");
         System.out.println("hot-fix tries to merge!");
         System.out.println("Conflict Handled!!!");
+        System.out.println("go hot-fix!!!");
     }
 }
